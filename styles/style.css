@@ -384,6 +384,9 @@ header{
     .team{
         grid-template-columns: repeat(1,1fr);
     }   
+    .team-img{
+        margin-left: 15px;
+    }
     .team-feature{
         margin-left: 5px;
     }
@@ -397,6 +400,9 @@ header{
     .feature-image img{
         width: 350px;
         height: 500px;
+    }
+    .feature-image{
+        margin-left: 15px;
     }
     .facts-container{
         text-align: center;
